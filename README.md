@@ -9,3 +9,5 @@ cert、ftp、ssh、mysql、windows
 	easy_install threadpool
 
 </code>
+
+<p>./ftp_crack.py ip port</p>
