@@ -7,7 +7,11 @@ cert、ftp、ssh、mysql、windows
 	apt-get install python-setuptools
 
 	easy_install threadpool
+	
+	cd [os]
+	cd ftp
 
 </code>
+
 
 <p>./ftp_crack.py ip port</p>
